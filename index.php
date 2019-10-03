@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fist git</title>
+	<title> Home</title>
 </head>
 <body>
-	<div><ul>
-		<li></li>
-
-	</ul>
-
-	</div>
+	<h1>This is My fist Git work</h1>
 
 
 </body>
